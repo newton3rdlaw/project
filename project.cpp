@@ -1,4 +1,8 @@
 /*
+//setup()-to setup the enviroment
+//draw()-to draw the walls or say boundry of the game
+//logic()-how will the snake move
+//inpput()-to take input from user for snake to take steps
 #include<iostream>
 #include <cstdlib>
 #include<conio.h>
